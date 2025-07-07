@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DivineChat Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .faq {
+      margin-bottom: 30px;
+    }
+    .question {
+      font-weight: bold;
+      margin-top: 15px;
+    }
+    footer {
+      margin-top: 50px;
+      border-top: 1px solid #ccc;
+      padding-top: 20px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>DivineChat Support</h1>
+  <p>Welcome to the support page for DivineChat — an app that allows you to explore scripture and reflect through guided conversations with biblical figures.</p>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <div class="faq">
+    <div class="question">What is DivineChat?</div>
+    <div>DivineChat is an educational app that simulates conversations with biblical figures using AI. It's designed to help users reflect on scripture, ask questions, and engage with biblical history in a more personal way.</div>
+
+    <div class="question">Does DivineChat give religious or pastoral advice?</div>
+    <div>No. The app is for educational and spiritual reflection purposes only. It does not replace pastoral counseling, therapy, or church guidance.</div>
+
+    <div class="question">Is my data stored or shared?</div>
+    <div>No. Conversations are processed securely via a backend server and are not stored or used for any external purpose. No account or personal information is required.</div>
+
+    <div class="question">Can I talk to any figure in the Bible?</div>
+    <div>Currently, the app supports a curated list of biblical figures such as Jesus, Moses, Ruth, Paul, and others. More may be added in future updates.</div>
+
+    <div class="question">Do I need an internet connection?</div>
+    <div>Yes. DivineChat requires internet access to communicate with the AI backend and provide real-time responses.</div>
+  </div>
+
+  <footer>
+    <p><strong>Need additional help?</strong></p>
+    <p>Email us at: <a href="mailto:divinechatapp@gmail.com">divinechatapp@gmail.com</a></p>
+    <p>© 2025 DivineChat</p>
+  </footer>
+</body>
+</html>
